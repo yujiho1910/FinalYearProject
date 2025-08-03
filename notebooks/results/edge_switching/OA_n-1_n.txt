@@ -1,0 +1,84 @@
+Switching first vertex on OA(2, 3), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Switching first vertex on OA(3, 4), rank 31
+
+Type Matrix:
+[1, 1, 1, 1]
+[1, 2, 2, 2]
+[1, 2, 4, 3]
+[1, 2, 3, 4]
+
+Switching first vertex on OA(4, 5), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Error for OA(5, 6): I don't know how to build an OA(5,6)!
+Switching first vertex on OA(6, 7), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Switching first vertex on OA(7, 8), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Switching first vertex on OA(8, 9), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Error for OA(9, 10): I don't know how to build an OA(9,10)!
+Switching first vertex on OA(10, 11), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Error for OA(11, 12): I don't know how to build an OA(11,12)!
+Switching first vertex on OA(12, 13), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Error for OA(13, 14): I don't know how to build an OA(13,14)!
+Error for OA(14, 15): I don't know how to build an OA(14,15)!
+Switching first vertex on OA(15, 16), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Switching first vertex on OA(16, 17), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+
+Error for OA(17, 18): I don't know how to build an OA(17,18)!
+Switching first vertex on OA(18, 19), rank 15
+
+Type Matrix:
+[1, 1, 1]
+[1, 3, 2]
+[1, 2, 3]
+

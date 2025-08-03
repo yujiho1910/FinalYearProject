@@ -5,11 +5,13 @@ This project explores the structure of **coherent configurations** derived from 
 ---
 
 ## 📌 Project Title
-**Obtaining Coherent Configurations on Non-Distance Regular Graphs**
+
+### Obtaining Coherent Configurations on Non-Distance Regular Graphs
 
 ---
 
 ## 🎓 Academic Info
+
 - **Institution**: Nanyang Technological University (NTU), Singapore
 - **Degree**: BSc. Mathematical and Computer Sciences (Honours with Highest Distinction)
 - **Grade**: A
@@ -20,6 +22,7 @@ This project explores the structure of **coherent configurations** derived from 
 ## 🧠 Problem Statement
 
 Given a strongly regular graph (SRG), can we obtain a minimal coherent configuration by applying:
+
 - Vertex deletion
 - Seidel switching
 - Edge switching (especially on block graphs from orthogonal arrays)?
@@ -90,7 +93,36 @@ The goal was to observe **how far such graphs are from being association schemes
 
 Currently unpublished. For access or collaboration, please contact:
 
-📧 yujiho54@gmail.com  
+📧 [yujiho54@gmail.com](mailto:yujiho54@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/jingrui19)
 
 ---
+
+## 📂 Repository Structure
+
+```text
+FinalYearProject/
+├── README.md
+├── deliverables/
+│   ├── report.pdf
+│   └── slides.pdf
+├── notebooks/
+│   ├── common_utils.py
+│   ├── for_tests.ipynb
+│   ├── graph_models.py
+│   ├── input.txt
+│   ├── weisfeiler/
+│   ├── weisfeiler_stabilisation.cpp
+│   └── results/
+│       ├── edge_switching/
+│       │   ├── OA_2_n.txt
+│       │   ├── OA_n-1_n_test.txt
+│       │   ├── OA_n-1_n.txt
+│       │   └── T_n.txt
+│       └── vertex_deletion/
+│           ├── OA_2_n.txt
+│           ├── OA_n-1_n.txt
+│           └── T_n.txt
+```
+
+This structure separates deliverables, code, and results for clarity and reproducibility.
