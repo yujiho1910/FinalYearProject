@@ -48,13 +48,13 @@ The goal was to observe **how far such graphs are from being association schemes
 2. Applied operations:
    - Vertex deletion
    - Seidel switching
-   - Block edge-switching using OA(2, n)
+   - Block edge-switching using $OA(2, n)$
 
 3. Computed adjacency matrices and applied closure under multiplication using SageMath.
 
 4. Verified coherent rank using:
    - Manual combinatorial tracking
-   - Implementation of WL-refinement algorithm (k-dim) in C++
+   - Implementation of WL-refinement algorithm ($k$-dim) in C++
 
 5. Validated closure with explicit applications of **Wielandt’s Principle**.
 
@@ -62,11 +62,11 @@ The goal was to observe **how far such graphs are from being association schemes
 
 ## 🧩 Key Observations
 
-- For block graphs from **orthogonal arrays OA(2, n)**:
+- For block graphs from **orthogonal arrays OA**$(2, n)$:
   - Edge switching consistently yielded a **coherent rank of 15**
   - Type matrices had a **stable block diagonal structure**:
-    - Diagonal 1: \( n-1 \) blocks of type \( I \) and \( J - I \)
-    - Diagonal 2: fibres with \( J - I_{n-1} \) and 0
+    - Diagonal 1: $n-1$ blocks of type $I$ and $J-I$
+    - Diagonal 2: fibres with $J - I$ and $0$
 
 - Switching on rook graphs disrupted symmetry, but algebraic closure retained regularity under WL refinement.
 
